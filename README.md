@@ -1,31 +1,33 @@
 <div align="center">
 
-# Muhammet Eyüp Çatan
+<img src="assets/header.svg" alt="Muhammet Eyüp Çatan — Big Data Analytics Student" width="100%">
 
-### Big Data Analytics Student · Manisa Celal Bayar University
-
-*Exploring the questions hidden in data — and shaping clear, useful insights.*
+<p><strong>Big Data Analytics student at Manisa Celal Bayar University</strong></p>
+<p>Exploring data, asking better questions, and learning to communicate useful insights.</p>
 
 </div>
 
 ---
 
-## About
+### About
 
-I’m studying Big Data Analytics at Manisa Celal Bayar University and building my portfolio through practical, data-focused work.
+I’m Muhammet Eyüp Çatan, a Big Data Analytics student at Manisa Celal Bayar University. I’m building my foundation in data analytics and exploring how data can help answer real-world questions.
 
-## What I’m working toward
+### Areas of interest
 
-- Strengthening my foundations in data analytics
-- Exploring datasets and finding meaningful patterns
-- Presenting findings in a clear, thoughtful way
+- Big Data Analytics
+- Data exploration and pattern discovery
+- Clear communication of analytical findings
 
-## On this profile
+### Education
 
-As I publish projects, I’ll share the question, approach, and key takeaways behind each one.
+**Manisa Celal Bayar University**  
+Big Data Analytics
 
-<div align="center">
+### Project portfolio
 
-**Learning in public · Building one project at a time**
+I’m growing this portfolio through practical, data-focused work. As projects are ready, I’ll share the question, approach, and key takeaways behind each one.
 
-</div>
+---
+
+<div align="center"><sub>Learning by doing · Building one project at a time</sub></div>
